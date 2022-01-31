@@ -1,0 +1,13 @@
+# Exclude Git metadata
+.git/**
+.gitattributes
+.gitignore
+
+# Exclude README
+/README.md
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
