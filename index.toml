@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9ab81bd4f0c97596e3b9f5270d226f8fb41c91fd30b5637905b81e7dcb29c4d8"
+hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/dcch.toml"
 hash = "efe10eb9402a6a43cd402e030fb26c8237c77fc4dd159c1ce7cb933e51079a1b"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "df310cdfe88e21419bbc9e6d3a476e3adc568bb763ca7e6d6c1102db458b6e23"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e9e611d1d415a3023065b986563f7c0a2deb3179994b75683978aec0f651b3ee"
+hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
 metafile = true
 
 [[files]]
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "010e81882aab141266a2255d475cf5e1dca19143a7ec9daa709ba49c889e5e72"
+hash = "aa40ece9a92298e1dff07930b8f2dd24a34d29a2830b3b0cb825cb89a03e7a2e"
 metafile = true
 
 [[files]]
@@ -232,5 +237,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c985086e33576afd91d197950ddec8cbb9fc6002dab937d24a60ba315f6c390b"
+hash = "6fedc69a6d5197740f8b33613cf1ba85410cb4ca084f68e4d78ed57a36caa682"
 metafile = true
