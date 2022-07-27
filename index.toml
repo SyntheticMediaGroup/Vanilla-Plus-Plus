@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
+hash = "49a22647b2ec0cf9c7ededb6d4a4655f064a6d1ebbadaff3bf544e201bbea5a1"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "17ac3c7ad4d264714b86b9caa569878d15c7f71ec33c4c61b2ace8eb02139de1"
+hash = "866d1c0416252584fdcb7f57642537d77952f5c2e4d01d3f0c00427e56aace94"
 metafile = true
 
 [[files]]
@@ -68,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/dcch.toml"
 hash = "efe10eb9402a6a43cd402e030fb26c8237c77fc4dd159c1ce7cb933e51079a1b"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "df310cdfe88e21419bbc9e6d3a476e3adc568bb763ca7e6d6c1102db458b6e23"
 metafile = true
 
 [[files]]
@@ -112,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "2370e2654b50288f953f337b98527cbf2dfaf9f3f797115969e11f62db62216c"
+hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "06af9a1b6e6cde17788bd4f2a3dca136b1ac27727af40613646d7194f23980fb"
+hash = "3658e9998e84e8058d7eee429c19059206fe54deb69a6bc4f07f59d9ef9ff865"
 metafile = true
 
 [[files]]
@@ -182,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
+hash = "b4d592a547646ee8c1645b8c892348a5bd6772ae4dc821125b9b6888826b3695"
 metafile = true
 
 [[files]]
@@ -237,5 +232,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6fedc69a6d5197740f8b33613cf1ba85410cb4ca084f68e4d78ed57a36caa682"
+hash = "5dc7d03c084c7b3c51d85b96166bf9fc70fa06735d23a71708c967329fc85d79"
 metafile = true
