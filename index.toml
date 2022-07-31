@@ -6,13 +6,18 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
-hash = "3460db95383cf24e5171f466bfc196c7f953eb7624ac10381de2c65356e265c0"
+hash = "e8de5feaf8b78bd44e38d9502937ea49cfc6679ebc82e2d45eb36d2340115c93"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
 metafile = true
 
 [[files]]
@@ -46,8 +51,13 @@ hash = "c655002fad2689f9f413134334319d1b03e2499c5b81cb9a28d9e37b7c02d706"
 metafile = true
 
 [[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "379a2c793f5f3f31b06581ba86de7ae4f32f401b466fb4dd684d6a7596df2fbf"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "686aeaa01bc19df05a97c786a623b961954d7c122dfcf214cd32f477170046de"
+hash = "abc8af9a067641bbdfd5f109309093d542088c50bbc871fd225db14e84fce047"
 metafile = true
 
 [[files]]
@@ -91,8 +101,18 @@ hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
@@ -131,6 +151,11 @@ hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
@@ -138,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "13699f3734855513b9bc9d6de3cf4a23b5c20bd83ac4ef825d0444880072fccf"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-report.pw.toml"
+hash = "1a8471d7495b0d903455f81282c32721dc6cc6734a216ae2a8a2e06f4d078474"
 metafile = true
 
 [[files]]
@@ -216,13 +246,33 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/technomodel.pw.toml"
+hash = "cbe81c20b3a915d640761b0ac4c5c29eefc4809384666c25af025c67307229d2"
+metafile = true
+
+[[files]]
+file = "mods/viabackwards.pw.toml"
+hash = "29b74d1d166ce4ec9bbb995444c7dca3012a4c795cf858ce09ee1d60cb4db574"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "f034ee3c5952a33fe76161728b72449f8a1dc6ff8b9b74f99a40135b6cd3d4fa"
+metafile = true
+
+[[files]]
+file = "mods/viarewind.pw.toml"
+hash = "22ca80a3d87f6b911b0063b032533836620cf29a35a848ae72566da72834f2cb"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "3712c67c4b3626bd4488df8dde5d741e04aa8e255a18b42d5eb52f35a3fb6551"
+hash = "141837c855cdf09dc9b7e26c32dd9b2ff0e188c76fa6bb4ce392ba0b00129d19"
 metafile = true
 
 [[files]]
