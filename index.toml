@@ -26,6 +26,11 @@ hash = "d2e6b36469b9c5b1c1946e35b1ea33dc21fd22c3302c2cfe0a83f418055a7c41"
 metafile = true
 
 [[files]]
+file = "mods/auto-clicker-fabric.pw.toml"
+hash = "d4fb7ca95edd8ccce41a8f2f94ad0f0cd15c3496122cb9b4460ba4217c2a2db6"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
