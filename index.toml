@@ -26,11 +26,6 @@ hash = "d2e6b36469b9c5b1c1946e35b1ea33dc21fd22c3302c2cfe0a83f418055a7c41"
 metafile = true
 
 [[files]]
-file = "mods/auto-clicker-fabric.pw.toml"
-hash = "d4fb7ca95edd8ccce41a8f2f94ad0f0cd15c3496122cb9b4460ba4217c2a2db6"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
@@ -122,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -192,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "33b4e42405067fbbf2633e14299e3010bdc48b31f1fa777ff45e542b5cda4f27"
+hash = "2ae2a17a9a92f337fe58dddc9245f890f4fc55a0421bc9708890068a5be77489"
 metafile = true
 
 [[files]]
