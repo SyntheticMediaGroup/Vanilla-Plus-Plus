@@ -216,6 +216,11 @@ hash = "70342a8f82c23bc364d846277b72f8d859ecdad794ce00fbbbf6240fa0ddc898"
 metafile = true
 
 [[files]]
+file = "mods/slimechunkf3.pw.toml"
+hash = "76f6966f66f38d81302e59db816d42abd452d8b0cc0e0206aa027d49b5db020d"
+metafile = true
+
+[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "88123b3a0897ef37902eb8770e75259ccb9e5cb1e444dfdc8d84e751325ecac3"
 metafile = true
