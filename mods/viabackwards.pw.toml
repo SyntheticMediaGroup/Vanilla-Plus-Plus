@@ -1,13 +1,13 @@
 name = "ViaBackwards"
-filename = "ViaBackwards-4.4.1.jar"
+filename = "ViaBackwards-4.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f58efe75322b2ba4a2c29e420b9fe1c7423949ca"
+hash = "b4510909fd0c4214114e872b8bc9901f7d15152a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3907574
+file-id = 3945081
 project-id = 412928
