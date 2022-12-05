@@ -1,13 +1,13 @@
 name = "Smooth Swapping"
-filename = "Fabric-1.19-SmoothSwapping-0.4.5.jar"
+filename = "Smooth Swapping 0.6 (1.19.2)-0.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ydZic5r4/versions/0.4.5/Fabric-1.19-SmoothSwapping-0.4.5.jar"
+url = "https://cdn.modrinth.com/data/ydZic5r4/versions/xvMjhVgq/Smooth%20Swapping%200.6%20%281.19.2%29-0.6.jar"
 hash-format = "sha1"
-hash = "57140237f24157c47a057b5003931cfa5cb6558a"
+hash = "c2bf54495dd28abbe85ece18835924dabc68b61f"
 
 [update]
 [update.modrinth]
 mod-id = "ydZic5r4"
-version = "5ASWObso"
+version = "xvMjhVgq"
