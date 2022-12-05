@@ -96,6 +96,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "ed45534139fd5fdea57ffc8ed92346aada23ac71d13dbd3fdc4d24ee741ac884"
 metafile = true
@@ -146,8 +151,18 @@ hash = "5c559405b7e871e2ce99db2677469b4806122e94ef6c0fdf560e0ba798e9a78b"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "c5556efa17ec13eeaaf3095d2f64e81d8a53c5cb6241896b61d99c2c2d5679cd"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
