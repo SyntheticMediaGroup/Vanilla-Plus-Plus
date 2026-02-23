@@ -1,13 +1,18 @@
 name = "Concurrent Chunk Management Engine (Fabric)"
-filename = "c2me-fabric-mc1.20.1-0.2.0+alpha.11.0.jar"
+filename = "c2me-fabric-mc1.21.11-0.3.7+alpha.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VSNURh3q/versions/T5Pkyhit/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.0.jar"
-hash-format = "sha1"
-hash = "a7b3f8136ba60ff6e3c216ade83ff03c42ca77ee"
+url = "https://cdn.modrinth.com/data/VSNURh3q/versions/QdLiMUjx/c2me-fabric-mc1.21.11-0.3.7%2Balpha.0.7.jar"
+hash-format = "sha512"
+hash = "f9543febe2d649a82acd6d5b66189b6a3d820cf24aa503ba493fdb3bbd4e52e30912c4c763fe50006f9a46947ae8cd737d420838c61b93429542573ed67f958e"
 
 [update]
 [update.modrinth]
 mod-id = "VSNURh3q"
-version = "T5Pkyhit"
+version = "QdLiMUjx"
+
+[option]
+optional = true
+default = false
+description = "Requires Java 22+. Recommend sticking with Java 21 (disabled) or 25 LTS (enabled). Do not use intermediary versions unless you absolutely have to."

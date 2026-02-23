@@ -1,13 +1,18 @@
 name = "Smooth Swapping"
-filename = "smoothswapping-0.9.3.1-1.20.2-fabric.jar"
+filename = "smoothswapping-0.9.8-1.21.11-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ydZic5r4/versions/ZOPxSIii/smoothswapping-0.9.3.1-1.20.2-fabric.jar"
-hash-format = "sha1"
-hash = "0deaefc844f35113ed5db90d76b5bd0bd5a279df"
+url = "https://cdn.modrinth.com/data/ydZic5r4/versions/Udmk6JVV/smoothswapping-0.9.8-1.21.11-fabric.jar"
+hash-format = "sha512"
+hash = "ceeb0072633a678a4905ca6ad7320dc5e044d2539942c6ae19a1e5b621fc1b37977e6f4704a0277b8c0da6e1dfd118fa221212c0b60e889c10919d238e1b5b64"
 
 [update]
 [update.modrinth]
 mod-id = "ydZic5r4"
-version = "ZOPxSIii"
+version = "Udmk6JVV"
+
+[option]
+optional = true
+default = true
+description = "Disable to disable smooth item movements between inventories."

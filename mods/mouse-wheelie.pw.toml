@@ -1,13 +1,18 @@
 name = "Mouse Wheelie"
-filename = "mousewheelie-1.13.0+mc1.20.1.jar"
+filename = "mouse-wheelie-1.16.0+mc1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/wPtDzPBH/mousewheelie-1.13.0%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "799268adcb25eceab35ca7df96415186221771c9"
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/fIQnyBdO/mouse-wheelie-1.16.0%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "9a916e67e36bf6802fc6e8d5214f0096824113e9533b2a1dbc790cbab65463b3f3fa59643ee41fece4f17cf240b2d9ebf7143231c5526071881824ba7a87d70a"
 
 [update]
 [update.modrinth]
 mod-id = "u5Ic2U1u"
-version = "wPtDzPBH"
+version = "fIQnyBdO"
+
+[option]
+optional = true
+default = true
+description = "A 'small' clientside mod featuring item scrolling, inventory sorting, item refilling and more!"
