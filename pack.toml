@@ -1,16 +1,16 @@
 name = "Sidpatchy's Vanilla++"
 author = "Sidpatchy"
-version = "7.0.0"
+version = "8.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "41d1f820538cb0e3a15b7a46c6449d823467d212d336e3208bffb4e9d60218b6"
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
 
 [versions]
-minecraft = "1.20.1"
-quilt = "0.22.0"
+minecraft = "1.21.11"
+quilt = "0.29.2"
 
 [options]
-acceptable-game-versions = ["1.20", "1.20.1"]
+acceptable-game-versions = ["1.21", "1.21.11"]
