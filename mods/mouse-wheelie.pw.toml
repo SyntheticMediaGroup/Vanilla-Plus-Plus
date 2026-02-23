@@ -15,4 +15,4 @@ version = "fIQnyBdO"
 [option]
 optional = true
 default = true
-description = "A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more!"
+description = "A 'small' clientside mod featuring item scrolling, inventory sorting, item refilling and more!"
